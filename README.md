@@ -184,4 +184,42 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - prendi le crocchette di ricky
         - portale in dispensa
 
-## B
+## Scansionare un documento su più fogli fronte-retro
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+### Task
+
+- devo fare uno scanner
+- non ho fronte e retro automatici
+- devo salvarlo in un formato digitale
+- singola pratica alla volta
+
+### Soluzione
+
+- accendere il computer
+- accendere la stampante
+- SE la stampante o il computer non si accende
+    - controllare la presa di corrente
+- aprire il software per lo scanner
+- SE il software non rileva alcuna stampante
+    - verificare il collegamento tra stampante e computer
+- ALTRIMENTI
+    - prendere i fogli da scansionare
+    - aprire lo scanner
+    - posizionare sullo scanner la fronte del foglio
+    - chiudere lo scanner
+    - scannerizzare
+    - SE il foglio ha anche il retro
+        - aprire lo scanner
+        - girare il foglio
+        - chiudere lo scanner
+        - scannerizzare
+    - ALTRIMENTI
+        - ripetere per tutti i fogli rimanenti
+- creare sul computer una cartella per salvare le pratiche
+- salvare i fogli scansionati nella cartella desiderata
+    - SE la cartella non viene trovata
+        - ricrearla per un max di 5 volte
+        - SE non viene creata
+            - salvala sul desktop
